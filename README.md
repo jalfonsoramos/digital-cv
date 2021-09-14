@@ -7,10 +7,10 @@ _Software Engineer based in Ensenada Baja California, México_
 
 ## Professional Summary
 
-- Computer Engineer graduate on December 2007 from Universidad Autonoma de Baja California at Ensenada.
-- 6 months as Software Developer at Dinamiyk Technologies.
-- 6 months as Software Developer and IT support at “Operadora de Cocina Don Manuel”.
-- 13 years at Softtek 
+- Computer Engineer graduate on December 2007 from **Universidad Autonoma de Baja California** at Ensenada.
+- 6 months as Software Developer at **Dinamiyk Technologies**.
+- 6 months as Software Developer and IT support at “**Operadora de Cocina Don Manuel**”.
+- 13 years at **Softtek** 
   - Intern (6 months)
   - Full-stack Developer and Technical Lead (10 years)
   - Software Architect (3 years)
@@ -18,7 +18,7 @@ _Software Engineer based in Ensenada Baja California, México_
 
 ## Roles and Responsibilities
 
-As a Technical Lead have the responsibility of
+As a **Technical Lead** have the responsibility of
 - Design and provide technical solutions based on best practices and code guidelines that satisfy the functional and non-functional requirements.
 - Promote the usage of best practices and guidelines for software development within the development team.
 - Troubleshooting on technical issues.
@@ -28,7 +28,7 @@ As a Technical Lead have the responsibility of
 - Define and ensure the correct application of (in collaboration with the Software Architect and the development team) naming conventions and coding standards.
 - Generate technical documentation such API Specs, Flow diagrams, Class diagrams, etc.
 
-As a Software Architect I have the responsibility of
+As a **Software Architect** I have the responsibility of
 - Provide modern architecture solutions for new development opportunities.
 - Evaluate and justify the usage of technologies for the proposals.
 - Understand the business needs and provide software architecture solutions that maps the functional and nonfunctional requirements.
