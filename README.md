@@ -43,7 +43,7 @@ As a **Software Architect** I have the responsibility of
 
 ## Professional Experience
 
-**Software Architect | Softtek (Dec 2018 – Present)**
+**Software Architect \| Softtek (Dec 2018 – Present)**
 
 - Softtek:
   - Collaborate with Sales and Technical Solution team on architecture assessments and architecture proposals.
@@ -52,7 +52,7 @@ As a **Software Architect** I have the responsibility of
   - Global digital platform for Franchise Organization, Restaurants and User Management of the fast-food brands Burger King, Tim Hortons and Popeyes based on Serverless and Miniservices architecture in AWS.
     - Technology Used: React, AWS SAM + Node.JS, Aurora Serverless MySQL, AWS Step Functions.
 
-**Full Stack Developer & Technical Lead | Softtek (Jan 2008 – Dec 2018)** 
+**Full Stack Developer & Technical Lead \| Softtek (Jan 2008 – Dec 2018)** 
 
 * Coinstar Money Transfer:
 
@@ -82,19 +82,19 @@ As a **Software Architect** I have the responsibility of
   * Digital Marketing platform based on microservices architecture in Microsoft Azure.
     * Technology Used: NET Framework 4.6/.NET Core 2.0, C#, ASP.NET Core API, ASP.NET Core MVC, Azure Service Fabric, Azure SQL, Mongo Db.
 
-**Full Stack Developer (intern) | Softtek (Jun 2007 – Dec 2007)**
+**Full Stack Developer (intern) \| Softtek (Jun 2007 – Dec 2007)**
 
 * Kenworth US:
   * Backoffice Web Application for Inventory Management.
     * Technology Used: .NET Framework 2.0, C#, ASP .NET Web Forms, MSSQL.
 
-**Full Stack Developer | Operadora de Cocina Don Manuel (Jan 2007 – Jun 2007)**
+**Full Stack Developer \| Operadora de Cocina Don Manuel (Jan 2007 – Jun 2007)**
 
 * Operadora de Cocina Don Manuel:
   * Backoffice Web Application for Accounting Management.
     * Technology Used: PHP, JavaScript, MySQL.
 
-**Full Stack Developer | Dynamic Technologies (Jun 2006 – Dec 2006)**
+**Full Stack Developer \| Dynamic Technologies (Jun 2006 – Dec 2006)**
 
 * Operadora de Cocina Don Manuel:
   * Backoffice Web Application for Inventory Management.
@@ -179,7 +179,6 @@ RESTful Services, SOAP Services, GraphQL for .NET, Socket Base
 ### Containers
 
 Docker, Azure Service Fabric
-
 
 
 
