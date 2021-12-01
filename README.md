@@ -40,3 +40,148 @@ As a **Software Architect** I have the responsibility of
 - Generate architecture artifacts such Reference Architecture, C4 Model diagrams, Architecture Assessment, Architecture Proposal, etc.
 - Ensure the correct implementation of the prosed software architecture within the tech lead and the development team.
 - Troubleshooting on complex technical issues.
+
+## Professional Experience
+
+**Software Architect | Softtek (Dec 2018 – Present)**
+
+- Softtek:
+  - Collaborate with Sales and Technical Solution team on architecture assessments and architecture proposals.
+  - Support development teams on technical issues.
+- RBI:
+  - Global digital platform for Franchise Organization, Restaurants and User Management of the fast-food brands Burger King, Tim Hortons and Popeyes based on Serverless and Miniservices architecture in AWS.
+    - Technology Used: React, AWS SAM + Node.JS, Aurora Serverless MySQL, AWS Step Functions.
+
+**Full Stack Developer & Technical Lead | Softtek (Jan 2008 – Dec 2018)** 
+
+* Coinstar Money Transfer:
+
+  * Send and Payment Web Services for external systems integration.
+    * Technology Used: .NET Framework 2.0, C#, ASP NET Web Services, MSSQL.
+  * Point-of-Sale Web Application with mobile compatibility.
+    * Technology Used: .NET Framework 3.5, C#, ASP NET Web Forms, ASP.NET Web Services, WCF .NET, jQuery, MSSQL.
+  * Customer Manager Desktop Application.
+    * Technology Used: .NET Framework 3.5, C#, Silverlight, MSSQL.
+
+* Sigue Money Transfer:
+
+  * Automated Background Jobs for integration with external web services.
+    * Technology Used: .NET Framework 4.0, C#, Windows Service, MSSQL.
+  * Monitoring Dashboard to visualize in real time the volume of money transfer transactions.
+    * Technology Used: NET Framework 4.0, C#, ASP.NET MVC, jQuery, WCF .NET (Duplex), Windows Service, MSSQL.
+
+* Broadcom:
+
+  * Log Monitoring Tool (pilot)
+    * Technology Used: NET Framework 4.0, C#, WCF .NET (RESTful), ASP.NET MVC, jQuery, MSSQL, Microsoft Azure.
+  * Intellectual Property Management Web Application.
+    * Technology Used: NET Framework 4.5, C#, WCF .NET, ASP.NET MVC, MSSQL.
+
+* Brinker:
+
+  * Digital Marketing platform based on microservices architecture in Microsoft Azure.
+    * Technology Used: NET Framework 4.6/.NET Core 2.0, C#, ASP.NET Core API, ASP.NET Core MVC, Azure Service Fabric, Azure SQL, Mongo Db.
+
+**Full Stack Developer (intern) | Softtek (Jun 2007 – Dec 2007)**
+
+* Kenworth US:
+  * Backoffice Web Application for Inventory Management.
+    * Technology Used: .NET Framework 2.0, C#, ASP .NET Web Forms, MSSQL.
+
+**Full Stack Developer | Operadora de Cocina Don Manuel (Jan 2007 – Jun 2007)**
+
+* Operadora de Cocina Don Manuel:
+  * Backoffice Web Application for Accounting Management.
+    * Technology Used: PHP, JavaScript, MySQL.
+
+**Full Stack Developer | Dynamic Technologies (Jun 2006 – Dec 2006)**
+
+* Operadora de Cocina Don Manuel:
+  * Backoffice Web Application for Inventory Management.
+    * Technology Used: PHP, JavaScript, MySQL.
+* Universidad Autonoma de Baja California:
+  * Backoffice Web Application for College Degree Management.
+    * Technology Used: PHP, JavaScript, MySQL.
+
+## Scholar Grade
+
+2003-2007 Computer Engineering, **Universidad Autónoma de Baja California**
+
+## Languages
+
+* Spanish (native)
+* English (good)
+
+## Technical Profile
+
+### Primary Profiles
+
+Software Architect, Technical Lead
+
+### Secondary Profiles
+
+Fullstack Developer, Backend Developer
+
+### Operative Systems
+
+Microsoft Windows, Microsoft Windows Server, Ubuntu
+
+### Programming Languages
+
+C# .NET, VB .NET, VB 6, Java, JavaScript, PHP, C++, C, Python, Pascal, Visual Fox Pro
+
+### Databases
+
+Microsoft SQL Server, Oracle, MySQL, MongoDb, Redis Cache
+
+### Source Control
+
+Git, Microsoft TFS, SVN, CVS
+
+### Microsoft .NET
+
+.NET Framework: ASP.NET, Windows Presentation Foundation, Windows Communication, Foundation, Windows Forms, Windows Services, ADO.NET, Entity Framework, Xamarin
+
+.NET Core: ASP.NET Core, Entity Framework Core, Blazor, Windows Services, Xamarin
+
+.NET Standard
+
+### IDE
+
+Visual Studio, Visual Studio Code, SQL Server Management Studio
+
+### Testing Tools
+
+MSTest, nUnit, xUnit
+
+### Cloud
+
+Microsoft Azure, AWS
+
+### Mobile Development
+
+Xamarin Forms (android and iOS)
+
+Xamarin Native (android)
+
+### Software Development Methodologies
+
+Agile (scrum, kamban), Waterfall
+
+### Software Architecture
+
+Layered architecture, Clean (Onion) architecture, CQRS architecture, Microservices architecture, Miniservices architecture, Serverless architecture, Event Driven architecture
+
+### API Development
+
+RESTful Services, SOAP Services, GraphQL for .NET, Socket Base
+
+### Containers
+
+Docker, Azure Service Fabric
+
+
+
+
+
+
