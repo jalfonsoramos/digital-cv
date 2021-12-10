@@ -18,7 +18,7 @@ _Software Engineer based in Ensenada Baja California, México_
 
 ## Roles and Responsibilities
 
-As a **Technical Lead** have the responsibility of
+As a **Technical Lead** I have the responsibility of
 - Design and provide technical solutions based on best practices and code guidelines that satisfy the functional and non-functional requirements.
 - Promote the usage of best practices and guidelines for software development within the development team.
 - Troubleshooting on technical issues.
