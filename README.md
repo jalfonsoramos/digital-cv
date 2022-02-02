@@ -30,7 +30,7 @@ As a **Technical Lead** I have the responsibility of
 
 As a **Software Architect** I have the responsibility of
 - Provide modern architecture solutions for new development opportunities.
-- Evaluate and justify the usage of technologies for the proposals.
+- Evaluate and justify technology selection.
 - Understand the business needs and provide software architecture solutions that maps the functional and nonfunctional requirements.
 - Document NFRs and provide the correct and accurate solution for each one of them.
 - Identify integrations and dependencies that should be part of the software architecture solution.
@@ -38,12 +38,12 @@ As a **Software Architect** I have the responsibility of
 - Close collaboration with technical lead to ensure the well understanding and the goals of proposed architecture.
 - Adopt new technologies by creating prove of concepts (PoC) for real use cases and be up to date with the latest of the industry.
 - Generate architecture artifacts such Reference Architecture, C4 Model diagrams, Architecture Assessment, Architecture Proposal, etc.
-- Ensure the correct implementation of the prosed software architecture within the tech lead and the development team.
+- Ensure the correct implementation of the proposed software architecture within the tech lead and the development team.
 - Troubleshooting on complex technical issues.
 
 ## Professional Experience
 
-**Software Architect \| Softtek (Dec 2018 – Present)**
+**Software Architect \| Softtek (Dec 2018 – Jan 2022)**
 
 - Softtek:
   - Collaborate with Sales and Technical Solution team on architecture assessments and architecture proposals.
