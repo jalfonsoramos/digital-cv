@@ -46,7 +46,7 @@ As a **Software Architect** I have the responsibility of
 **Software Architect \| Softtek (Dec 2018 – Jan 2022)**
 
 - Softtek:
-  - Collaborate with Sales and Technical Solution team on architecture assessments and architecture proposals.
+  - Collaborate with Sales and Technical Solution team in architecture assessments and architecture proposals.
   - Support development teams on technical issues.
 - RBI:
   - Global digital platform for Franchise Organization, Restaurants and User Management of the fast-food brands Burger King, Tim Hortons and Popeyes based on Serverless and Miniservices architecture in AWS.
