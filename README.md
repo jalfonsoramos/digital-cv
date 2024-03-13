@@ -15,7 +15,7 @@ _Software Engineer based in Ensenada Baja California, México_
   - Full-stack Developer and Technical Lead (10 years)
   - Software Architect (4 years)
   - Microsoft .NET Instructor
-- 2 years as.NET Developer (full-stack) at **Distillery Tech**. 
+- 2 years as.NET Developer (full-stack) at **[Distillery](https://distillery.com)**. 
 
 ## Roles and Responsibilities
 
