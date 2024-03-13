@@ -7,10 +7,10 @@ _Software Engineer based in Ensenada Baja California, México_
 
 ## Professional Summary
 
-- Computer Engineer graduate on December 2007 from **Universidad Autonoma de Baja California** at Ensenada.
+- Computer Engineer graduate on December 2007 from **[Universidad Autonoma de Baja California](https://www.uabc.mx)** at Ensenada.
 - 6 months as Software Developer at **Dinamiyk Technologies**.
 - 6 months as Software Developer and IT support at “**Operadora de Cocina Don Manuel**”.
-- 14 years at **Softtek** 
+- 14 years at **[Softtek](https://www.softtek.com)**. 
   - Intern (6 months)
   - Full-stack Developer and Technical Lead (10 years)
   - Software Architect (4 years)
@@ -45,22 +45,21 @@ As a **Software Architect** I have the responsibility of
 ## Professional Experience
 
 **.NET Developer \| Distillery (Feb 2022 - )**
-- PayQuicker
+- [PayQuicker](https://payquicker.com)
   - To develop a secure instant payout platform that delivers payment to a payee-owned insured bank account linked to a debit card.
 
 **Software Architect \| Softtek (Dec 2018 – Jan 2022)**
 
-- Softtek:
+- [Softtek](https://www.softtek.com):
   - Collaborate with Sales and Technical Solution team in architecture assessments and architecture proposals.
   - Support development teams on technical issues.
-- RBI:
+- [RBI](https://www.rbi.com):
   - Global digital platform for Franchise Organization, Restaurants and User Management of the fast-food brands Burger King, Tim Hortons and Popeyes based on Serverless and Miniservices architecture in AWS.
     - Technology Used: React, AWS SAM + Node.JS, Aurora Serverless MySQL, AWS Step Functions.
 
 **Full Stack Developer & Technical Lead \| Softtek (Jan 2008 – Dec 2018)** 
 
-* Coinstar Money Transfer:
-
+* [Coinstar Money Transfer](https://coinstar.com):
   * Send and Payment Web Services for external systems integration.
     * Technology Used: .NET Framework 2.0, C#, ASP NET Web Services, MSSQL.
   * Point-of-Sale Web Application with mobile compatibility.
@@ -68,28 +67,25 @@ As a **Software Architect** I have the responsibility of
   * Customer Manager Desktop Application.
     * Technology Used: .NET Framework 3.5, C#, Silverlight, MSSQL.
 
-* Sigue Money Transfer:
-
+* [Sigue Money Transfer](https://sigue.com):
   * Automated Background Jobs for integration with external web services.
     * Technology Used: .NET Framework 4.0, C#, Windows Service, MSSQL.
   * Monitoring Dashboard to visualize in real time the volume of money transfer transactions.
     * Technology Used: NET Framework 4.0, C#, ASP.NET MVC, jQuery, WCF .NET (Duplex), Windows Service, MSSQL.
 
-* Broadcom:
-
+* [Broadcom](https://www.broadcom.com):
   * Log Monitoring Tool (pilot)
     * Technology Used: NET Framework 4.0, C#, WCF .NET (RESTful), ASP.NET MVC, jQuery, MSSQL, Microsoft Azure.
   * Intellectual Property Management Web Application.
     * Technology Used: NET Framework 4.5, C#, WCF .NET, ASP.NET MVC, MSSQL.
 
-* Brinker:
-
+* [Brinker](https://www.brinker.com):
   * Digital Marketing platform based on microservices architecture in Microsoft Azure.
     * Technology Used: NET Framework 4.6/.NET Core 2.0, C#, ASP.NET Core API, ASP.NET Core MVC, Azure Service Fabric, Azure SQL, Mongo Db.
 
 **Full Stack Developer (intern) \| Softtek (Jun 2007 – Dec 2007)**
 
-* Kenworth US:
+* [Kenworth US](https://www.kenworth.com):
   * Backoffice Web Application for Inventory Management.
     * Technology Used: .NET Framework 2.0, C#, ASP .NET Web Forms, MSSQL.
 
