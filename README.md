@@ -50,7 +50,7 @@ As a **Software Architect** I have the responsibility of
 
 **Software Architect \| Softtek (Dec 2018 – Jan 2022)**
 
-- [Softtek](https://www.softtek.com):
+- Softtek:
   - Collaborate with Sales and Technical Solution team in architecture assessments and architecture proposals.
   - Support development teams on technical issues.
 - [RBI](https://www.rbi.com):
