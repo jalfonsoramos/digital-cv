@@ -15,7 +15,7 @@ _Software Engineer based in Ensenada Baja California, México_
   - Full-stack Developer and Technical Lead (10 years)
   - Software Architect (4 years)
   - Microsoft .NET Instructor
-- 2 years as.Net Developer (full-stack) at **Distillery Tech**. 
+- 2 years as.NET Developer (full-stack) at **Distillery Tech**. 
 
 ## Roles and Responsibilities
 
@@ -44,8 +44,9 @@ As a **Software Architect** I have the responsibility of
 
 ## Professional Experience
 
-**.Net Developer \| Distillery (Feb 2022 - )**
-- [Under development...]
+**.NET Developer \| Distillery (Feb 2022 - )**
+- PayQuicker
+  - To develop a secure instant payout platform that delivers payment to a payee-owned insured bank account linked to a debit card.
 
 **Software Architect \| Softtek (Dec 2018 – Jan 2022)**
 
@@ -146,7 +147,7 @@ Git, Microsoft TFS, SVN, CVS
 
 .NET Framework: ASP.NET, Windows Presentation Foundation, Windows Communication, Foundation, Windows Forms, Windows Services, ADO.NET, Entity Framework, Xamarin
 
-.NET Core: ASP.NET Core, Entity Framework Core, Blazor, Windows Services, Xamarin
+.NET Core (currently .NET 8): ASP.NET Core, Entity Framework Core, Blazor, Windows Services, Xamarin
 
 .NET Standard
 
