@@ -10,11 +10,12 @@ _Software Engineer based in Ensenada Baja California, México_
 - Computer Engineer graduate on December 2007 from **Universidad Autonoma de Baja California** at Ensenada.
 - 6 months as Software Developer at **Dinamiyk Technologies**.
 - 6 months as Software Developer and IT support at “**Operadora de Cocina Don Manuel**”.
-- 13 years at **Softtek** 
+- 14 years at **Softtek** 
   - Intern (6 months)
   - Full-stack Developer and Technical Lead (10 years)
-  - Software Architect (3 years)
+  - Software Architect (4 years)
   - Microsoft .NET Instructor
+- 2 years as.Net Developer (full-stack) at **Distillery Tech**. 
 
 ## Roles and Responsibilities
 
@@ -42,6 +43,9 @@ As a **Software Architect** I have the responsibility of
 - Troubleshooting on complex technical issues.
 
 ## Professional Experience
+
+**.Net Developer \| Distillery (Feb 2022 - )**
+- [Under development...]
 
 **Software Architect \| Softtek (Dec 2018 – Jan 2022)**
 
