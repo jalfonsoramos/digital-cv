@@ -3,7 +3,7 @@ Jesus Alfonso Ramos Muñiz
 
 _Software Engineer based in Ensenada Baja California, México_
 
-[Email](mailto:jalfonso.ramos@outlook.com) / [LinkIn](https://www.linkedin.com/in/alfonso-ramos-60a00561/) )
+[Email](mailto:jalfonso.ramos@outlook.com) / [LinkIn](https://www.linkedin.com/in/alfonso-ramos-60a00561/)
 
 ---
 
