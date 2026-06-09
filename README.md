@@ -1,205 +1,196 @@
 Jesus Alfonso Ramos Muñiz
-============
+=========================
 
-_Software Engineer based in Ensenada Baja California, México_
+_Software Architect and Technical Lead based in Ensenada, Baja California, México_
 
-[Email](mailto:jalfonso.ramos@outlook.com) / [LinkIn](https://www.linkedin.com/in/alfonso-ramos-60a00561/)
-
----
-
-## **Professional Summary**
-
-- **Computer Engineer**, graduated in December 2007 from [Universidad Autónoma de Baja California](https://www.uabc.mx), Ensenada.
-- **6 months as Software Developer** at [Dinamiyk Technologies](https://www.dinamiyk.com).
-- **6 months as Software Developer & IT Support** at “[Operadora de Cocina Don Manuel](https://www.operadora-donmanuel.com)”.
-- **14 years at [Softtek](https://www.softtek.com)**, with the following roles:
-    - **Intern** (6 months)
-    - **Full-stack Developer & Technical Lead** (10 years)
-    - **Software Architect** (4 years)
-    - **Microsoft .NET Instructor**
-- **3years as .NET Developer (Full-stack)** at [Distillery](https://distillery.com).
+[jalfonso.ramos@outlook.com](mailto:jalfonso.ramos@outlook.com) · [LinkedIn](https://www.linkedin.com/in/alfonso-ramos-60a00561/)
 
 ---
 
-## **Roles and Responsibilities**
+## Professional Summary
 
-### **Technical Lead**
+Experienced Software Architect and Technical Lead with 20+ years of professional experience in .NET, cloud-native solutions, and enterprise application delivery. Proven ability to lead development teams, define scalable architecture, and deliver resilient systems for global clients. Skilled at bridging business needs and technical strategy across AWS, Azure, microservices, and modern web platforms.
 
-As a **Technical Lead**, my responsibilities include:
+## Career Highlights
 
-- **Designing and delivering technical solutions** based on industry best practices and established coding guidelines to meet both functional and non-functional requirements.
-- **Promoting the adoption of best practices and guidelines** within the development team, ensuring consistency and quality throughout the development process.
-- **Troubleshooting and resolving technical issues**, identifying root causes, and providing effective solutions to minimize project delays or disruptions.
-- **Overseeing code quality** and ensuring the proper usage of technologies by the development team, maintaining a high standard of performance and reliability.
-- **Identifying, escalating, and mitigating technical and functional risks**, proactively addressing potential blockers and ensuring smooth project progress.
-- **Ensuring the correct versioning of the codebase**, adhering to a well-defined branching strategy for clear version control and collaborative development.
-- **Defining and enforcing coding standards and naming conventions**, in collaboration with the Software Architect and the development team, to ensure uniformity and maintainability.
-- **Creating and maintaining technical documentation**, including API specifications, flow diagrams, class diagrams, and other relevant artifacts, to communicate architectural decisions and software design effectively to the team.
-
-### **Software Architect**
-
-As a **Software Architect**, my responsibilities include:
-
-- **Providing modern and scalable architectural solutions** for new development opportunities, aligning them with business needs and technical goals.
-- **Evaluating and justifying technology selections**, considering factors like scalability, performance, and security to ensure that the chosen technologies support long-term business objectives.
-- **Collaborating with stakeholders to understand business needs** and translating them into actionable, scalable software architecture solutions that meet both functional and non-functional requirements.
-- **Documenting non-functional requirements (NFRs)** and ensuring the software architecture addresses each one with the appropriate solutions, maintaining high standards of performance, security, and reliability.
-- **Identifying and managing system integrations and dependencies**, ensuring that the architecture supports seamless communication between various components and external systems.
-- **Promoting the usage of best practices and development guidelines** within the development teams to maintain consistency, code quality, and team productivity.
-- **Collaborating closely with the Technical Lead** to ensure the successful implementation of the proposed architecture, providing guidance and ensuring alignment with technical goals.
-- **Evaluating and adopting emerging technologies** by creating proof-of-concept (PoC) implementations, staying up to date with the latest industry trends and technological advancements.
-- **Generating architecture documentation and artifacts**, such as reference architectures, C4 model diagrams, architecture assessments, and proposals, to communicate architectural decisions and solutions effectively.
-- **Ensuring proper implementation of the proposed software architecture** within the development team, working with the Technical Lead to resolve any challenges that arise during implementation.
-- **Troubleshooting complex technical issues**, diagnosing and resolving high-level problems to ensure the overall integrity and stability of the system.
-
-### **.NET Developer | Distillery** (Feb 2022 – Present)
-
-- **[PayQuicker](https://payquicker.com):**
-    - Developing a secure instant payout platform that facilitates payment to payee-owned, insured bank accounts linked to debit cards.
-    - Ensuring robust, secure, and efficient integration with financial systems to provide seamless transaction experiences.
-
-### **Software Architect | Softtek** (Dec 2018 – Jan 2022)
-
-- **Softtek:**
-    
-    - Collaborated with Sales and Technical Solution teams to conduct architecture assessments and craft architecture proposals tailored to client needs.
-    - Provided ongoing support to development teams, addressing complex technical issues and ensuring project alignment with architectural principles.
-- **[RBI](https://www.rbi.com):**
-    
-    - Developed a global digital platform for managing franchises, restaurants, and user interactions for major fast-food brands (Burger King, Tim Hortons, and Popeyes).
-    - Implemented serverless and microservices architecture using AWS, ensuring scalability and reliability for high-demand operations.
-    - **Technologies Used:** React, AWS SAM + Node.js, Aurora Serverless MySQL, AWS Step Functions.
-
-### **Full Stack Developer & Technical Lead | Softtek** (Jan 2008 – Dec 2018)
-
-- **[Coinstar Money Transfer](https://coinstar.com):**
-    
-    - Designed and implemented web services for external systems integration, enabling secure and efficient payment and transfer functionalities.
-    - Developed a point-of-sale web application with mobile compatibility to enhance customer interaction and streamline business operations.
-    - Built and maintained a Customer Manager Desktop Application to improve client relationship management and transaction tracking.
-    - **Technologies Used:** .NET Framework 2.0, 3.5, C#, ASP.NET Web Services, ASP.NET Web Forms, WCF .NET, jQuery, MSSQL.
-- **[Sigue Money Transfer](https://sigue.com):**
-    
-    - Developed automated background jobs for integrating with external web services, enhancing the efficiency and reliability of the transfer process.
-    - Created a real-time monitoring dashboard to visualize money transfer transaction volumes, improving operational transparency and decision-making.
-    - **Technologies Used:** .NET Framework 4.0, C#, Windows Service, MSSQL, ASP.NET MVC, WCF .NET (Duplex), jQuery.
-- **[Broadcom](https://www.broadcom.com):**
-    
-    - Led the development of a pilot log monitoring tool to track and analyze system logs in real-time, enhancing system reliability and performance.
-    - Contributed to the development of an Intellectual Property Management Web Application to manage and protect company assets.
-    - **Technologies Used:** .NET Framework 4.0, 4.5, C#, WCF .NET (RESTful), ASP.NET MVC, Microsoft Azure, MSSQL.
-- **[Brinker](https://www.brinker.com):**
-    
-    - Developed a digital marketing platform based on a microservices architecture in Microsoft Azure to optimize marketing campaigns and customer engagement.
-    - **Technologies Used:** .NET Framework 4.6, .NET Core 2.0, C#, ASP.NET Core API, Azure Service Fabric, MongoDB, Azure SQL.
-
-### **Full Stack Developer (Intern) | Softtek** (Jun 2007 – Dec 2007)
-
-- **[Kenworth US](https://www.kenworth.com):**
-    - Assisted in the development of a back-office web application for inventory management, streamlining stock control and reporting processes.
-    - **Technologies Used:** .NET Framework 2.0, C#, ASP.NET Web Forms, MSSQL.
-
-### **Full Stack Developer | Operadora de Cocina Don Manuel** (Jan 2007 – Jun 2007)
-
-- Developed a back-office web application for accounting management to optimize financial tracking and reporting processes.
-- **Technologies Used:** PHP, JavaScript, MySQL.
-
-### **Full Stack Developer | Dinamiyk Technologies** (Jun 2006 – Dec 2006)
-
-- **Operadora de Cocina Don Manuel:**
-    - Developed a back-office web application for inventory management, facilitating streamlined stock control and reporting.
-- **[Universidad Autónoma de Baja California](https://www.uabc.mx):**
-    - Contributed to the development of a back-office web application for college degree management, supporting the efficient handling of academic records and data.
-- **Technologies Used:** PHP, JavaScript, MySQL.
+- Computer Engineering degree from [Universidad Autónoma de Baja California](https://www.uabc.mx) (2007)
+- 14 years with [Softtek](https://www.softtek.com) in roles including Intern, Full-stack Developer, Technical Lead, Software Architect, and .NET Instructor
+- 4+ years as a Full-stack .NET Developer at [Distillery](https://distillery.com)
+- Strong experience in architecture assessments, cloud platform design, and enterprise integrations
 
 ---
 
-## **Education**
+## Roles and Responsibilities
 
-**2003-2007** – **Computer Engineering**, [Universidad Autónoma de Baja California](https://www.uabc.mx)
+### Technical Lead
 
----
+- Lead technical delivery for application development, ensuring alignment with architecture, quality, and operational requirements
+- Define coding standards, branching strategy, and development practices to improve consistency and maintainability
+- Guide development teams through design, implementation, testing, and deployment
+- Review and approve architecture decisions, code reviews, and release activities
+- Identify risks, remove blockers, and maintain development velocity across distributed teams
+- Create and maintain technical artifacts such as architecture diagrams, API contracts, and solution specifications
 
-## **Languages**
+### Software Architect
 
-- **Spanish**: Native
-- **English**: Proficient
-
----
-
-## **Technical Profile**
-
-### **Core Competencies**
-
-- **Software Architect**
-- **Technical Lead**
-
-### **Additional Expertise**
-
-- **Full-stack Developer**
-- **Backend Developer**
+- Design scalable solutions aligned to business requirements and non-functional requirements (performance, security, reliability)
+- Evaluate and select technologies that support long-term platform goals across cloud and hybrid environments
+- Collaborate with stakeholders, sales teams, and development teams to translate requirements into architecture proposals
+- Define integration strategies, service boundaries, and solution patterns for enterprise systems
+- Produce architecture documentation, proof-of-concept implementations, and architecture assessments
+- Support delivery teams during implementation, ensuring architecture integrity and operational readiness
 
 ---
 
-## **Technologies & Tools**
+## Professional Experience
 
-### **Programming Languages**
+### Distillery — .NET Developer (Full-stack)
+_Feb 2022 – Present_
 
-- **C#**
-- **Java**
-- **C++**
-- **JavaScript**
-- **PHP**
-- **SQL** (MSSQL, Aurora Serverless MySQL)
+- Develop secure instant payout functionality for [PayQuicker](https://payquicker.com), supporting payments to insured bank accounts linked to debit cards
+- Implement integrations with financial partners and payment systems to ensure compliance and transaction reliability
+- Maintain and extend platform services to improve performance, security, and operational efficiency
 
-### **Frameworks & Libraries**
+### Softtek — Software Architect
+_Dec 2018 – Jan 2022_
 
-- **.NET** (all versions up to 8)
-- **Xamarin**
-- **MAUI**
-- **ASP.NET Core** (MVC, API)
-- **ASP.NET Web Forms**
-- **WCF .NET**
-- **Windows Forms**
-- **React**
-- **Silverlight**
-- **jQuery**
-- **Node.js**
+- Collaborated with Sales and Technical Solutions to deliver architecture assessments and proposals for enterprise clients
+- Supported delivery teams by resolving high-level technical issues and guiding implementation decisions
 
-### **Cloud & Platforms**
+#### RBI
 
-- **Microsoft Azure**
-    - Azure Service Fabric
-    - Azure SQL
-    - MongoDB
-- **Amazon Web Services (AWS)**
-    - AWS SAM
-    - AWS Step Functions
-    - Aurora Serverless MySQL
-    - Node.js
+- Designed and delivered a global digital platform for franchise, restaurant, and customer management across Burger King, Tim Hortons, and Popeyes
+- Implemented serverless and microservices architecture on AWS for scalability and high availability
+- Technologies: React, AWS SAM, Node.js, Aurora Serverless MySQL, AWS Step Functions
 
-### **Databases & Storage**
+### Softtek — Full-stack Developer & Technical Lead
+_Jan 2008 – Dec 2018_
 
-- **MSSQL**
-- **MySQL**
-- **MongoDB**
-- **Aurora Serverless MySQL**
+#### Coinstar Money Transfer
 
-### **Tools & Development Environments**
+- Designed and implemented web services for secure payment and transfer workflows
+- Built a mobile-compatible point-of-sale web application and a desktop Customer Manager application
+- Technologies: .NET Framework 2.0, 3.5, C#, ASP.NET Web Services, ASP.NET Web Forms, WCF, jQuery, MSSQL
 
-- **Visual Studio**
-- **Microsoft SQL Server Management Studio (SSMS)**
-- **Git**
-- **Docker**
-- **JIRA**
+#### Sigue Money Transfer
 
-### **Other Technologies**
+- Developed automated background services for external web service integration
+- Created a real-time monitoring dashboard to track transaction volume and system health
+- Technologies: .NET Framework 4.0, C#, Windows Service, MSSQL, ASP.NET MVC, WCF (Duplex), jQuery
 
-- **Windows Services**
-- **RabbitMQ**
-- **Serverless Architecture**
-- **Microservices Architecture**
-- **RESTful APIs**
+#### Broadcom
 
+- Led development of a log monitoring tool for real-time analysis and operational reliability
+- Contributed to an Intellectual Property Management web application for asset tracking
+- Technologies: .NET Framework 4.0, 4.5, C#, WCF (RESTful), ASP.NET MVC, Azure, MSSQL
 
+#### Brinker
 
+- Developed a digital marketing platform using microservices patterns in Azure
+- Technologies: .NET Framework 4.6, .NET Core 2.0, C#, ASP.NET Core API, Azure Service Fabric, Azure SQL, MongoDB
+
+### Softtek — Full-stack Developer (Intern)
+_Jun 2007 – Dec 2007_
+
+#### Kenworth US
+
+- Assisted development of a back-office inventory management application
+- Technologies: .NET Framework 2.0, C#, ASP.NET Web Forms, MSSQL
+
+### Operadora de Cocina Don Manuel — Full-stack Developer
+_Jan 2007 – Jun 2007_
+
+- Built a back-office accounting management application to improve financial tracking and reporting
+- Technologies: PHP, JavaScript, MySQL
+
+### Dinamiyk Technologies — Full-stack Developer
+_Jun 2006 – Dec 2006_
+
+- Developed a back-office inventory application for Operadora de Cocina Don Manuel
+- Built a degree management application for [Universidad Autónoma de Baja California](https://www.uabc.mx)
+- Technologies: PHP, JavaScript, MySQL
+
+---
+
+## Education
+
+**Computer Engineering** — [Universidad Autónoma de Baja California](https://www.uabc.mx)
+_2003 – 2007_
+
+---
+
+## Languages
+
+- Spanish — Native
+- English — Proficient
+
+---
+
+## Technical Profile
+
+### Core Competencies
+
+- Software Architecture
+- Technical Leadership
+- Enterprise Application Delivery
+- Cloud-native Solutions
+
+### Additional Expertise
+
+- Full-stack .NET Development
+- Backend Services
+- System Integration
+- Solution Design
+
+---
+
+## Technologies & Tools
+
+### Programming Languages
+
+- C#
+- Java
+- C++
+- JavaScript
+- PHP
+- SQL
+
+### Frameworks & Platforms
+
+- Microsoft .NET (Framework, Core, 10)
+- ASP.NET Core (MVC, API, Blazor)
+- ASP.NET Web Forms
+- WCF
+- React
+- Node.js
+- Xamarin
+- MAUI
+- jQuery
+
+### Cloud & Architecture
+
+- AWS: SAM, Step Functions, Aurora Serverless MySQL
+- Azure: Service Fabric, Azure SQL
+- Microservices
+- Serverless architecture
+- RESTful APIs
+
+### Databases
+
+- MSSQL
+- MySQL
+- Aurora Serverless MySQL
+- MongoDB
+
+### Tools
+
+- Visual Studio
+- SSMS
+- Git
+- Docker
+- JIRA
+
+### Other Technologies
+
+- Windows Services
+- RabbitMQ
